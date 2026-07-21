@@ -7,6 +7,8 @@ End-to-end healthcare claims analytics project using SQL, Python and Power BI to
 Healthcare Claims Intelligence Platform is an end-to-end healthcare AI project that combines SQL, Python, Power BI and NLP to analyze healthcare claims, identify denial patterns, process clinical documents, and assist claim reviewers through AI-powered insights.
 
 The project is designed to simulate a real-world healthcare technology product rather than a standalone analytics dashboard.
+The Healthcare Claims Intelligence Platform does not automate clinical decision making.
+It augments clinical investigators by reducing manual searching, organizing evidence, improving explainability, and providing AI-assisted decision support while keeping the investigator responsible for the final determination.
 ## Technology Stack
 
 - SQL
